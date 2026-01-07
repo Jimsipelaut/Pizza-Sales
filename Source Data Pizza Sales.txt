@@ -1,0 +1,3 @@
+https://www.kaggle.com/code/melikedilekci/eda-pizza-restaurant-sales/input
+
+data mentah Pizza Sales
